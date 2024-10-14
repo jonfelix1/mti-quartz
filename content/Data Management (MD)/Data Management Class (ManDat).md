@@ -17,3 +17,8 @@ Study: "[[Master of Information Technology]]"
     
 -  [[Data Architecture]]  
     Design and structure of data systems, including models, policies, and technologies that govern data flow and storage.
+
+- [[Database Modelling and Design]]: 
+	Focuses on the principles, techniques, and methodologies for creating structured representations of data within a database system, including concepts like entity-relationship modeling and normalization.
+- [[Data Modelling and Design]]: 
+	Covers the broader scope of data modeling, emphasizing the design process for organizing and structuring data in various contexts, including databases, data warehouses, and applications.
