@@ -20,5 +20,9 @@ Study: "[[Master of Information Technology]]"
 
 - [[Database Modelling and Design]]: 
 	Focuses on the principles, techniques, and methodologies for creating structured representations of data within a database system, including concepts like entity-relationship modeling and normalization.
+	
 - [[Data Modelling and Design]]: 
 	Covers the broader scope of data modeling, emphasizing the design process for organizing and structuring data in various contexts, including databases, data warehouses, and applications.
+
+- [[Data Storage and Operation Management]]: 
+	Focuses on managing data storage solutions and operational processes, including **storage technologies**, **data access methods**, and **storage management practices** to ensure efficient and reliable database performance.
